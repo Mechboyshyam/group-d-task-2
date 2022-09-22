@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+body{
+    background-color: #ccc;
+}
+ul{
+    overflow: auto;
+    display: flex;
+    overflow: auto;
+}
+.page2{
+    display: flex;
+}
