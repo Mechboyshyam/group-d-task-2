@@ -13,6 +13,9 @@
 .box-size{
     width: 80px;
 }
+.box-size1{
+    width: 80px;
+}
 .box-size:hover{
     background-color: rgba(204, 204, 204, 0.469);
     width: 80px;
@@ -38,10 +41,29 @@
     padding-top: 100px;
     margin-top: 80px;
 }
-.page3{
+.page2{
     display: flex;
+    margin-top: 5px;
+    margin-top: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+   
+}
+.purple{
+    background-color: #002E6E;
+    padding-top: 75px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+}
+.page3{
     background-color: #002E6E;
 }
-.3-flex{
-    display: flex;
+.font-box1{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    margin-left: 40px;
+    padding-top: -30px;
 }
