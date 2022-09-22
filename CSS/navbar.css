@@ -22,12 +22,14 @@ li{
     padding-right: 15px;
 }
 .sign{
-    
-   padding: 10px 20px 10px 20px;
-    font-size: 19px;
-    font-weight: bold;
-    position: relative;
-    margin-left: 20px;
+    background-color: #00B9F1;
+    padding: 10px 25px 10px 25px;
+    border: none;
+    border-radius: 25px;
+    color: #ffffff;
+}
+.sign:hover{
+    background-color: #002E6E;
 }
 .img{
     height: 70px;
@@ -36,15 +38,19 @@ li{
 .nav-img1{
     margin-top: 20px;
 }
-.last-btn{
-    margin-top: 10px;
-    background-color: #00B9F1;
-    margin-bottom: 30px;
-    margin-top: 10px;
-}
 .dist2{
     padding-right: 100px;
 }
 .dist1{
     padding-left: 100px;
+}
+.p-nav{
+    text-align: center;
+    background-color: rgba(204, 204, 204, 0.469);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: -10px;
+}
+.emoji{
+    font-size: 25px;
 }
