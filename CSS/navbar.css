@@ -1,0 +1,50 @@
+nav{
+    background-color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+ul{
+    overflow: auto;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-size: 19px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+.sign{
+    
+   padding: 10px 20px 10px 20px;
+    font-size: 19px;
+    font-weight: bold;
+    position: relative;
+    margin-left: 20px;
+}
+.img{
+    height: 70px;
+    margin-left: -80px;
+}
+.nav-img1{
+    margin-top: 20px;
+}
+.last-btn{
+    margin-top: 10px;
+    background-color: #00B9F1;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.dist2{
+    padding-right: 100px;
+}
+.dist1{
+    padding-left: 100px;
+}
